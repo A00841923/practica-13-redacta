@@ -1,0 +1,13 @@
+﻿*.iml
+.gradle/
+.idea/
+.kotlin/
+build/
+local.properties
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+
+# El modelo pesa cientos de MB: no va al repo (GitHub rechaza archivos de más de 100 MB)
+*.litertlm
