@@ -10,8 +10,10 @@ respuesta en streaming, la forma de pedirle las cosas y sus pruebas.
 
 ## Antes de clase
 
-1. Descarga el modelo `gemma3-1b-it-int4.litertlm` (584 MB) del enlace del curso.
-   No lo pongas en esta carpeta: no va al repo (el `.gitignore` ya lo excluye).
+1. Descarga el modelo `gemma3-1b-it-int4.litertlm` (584 MB) de
+   https://huggingface.co/litert-community/Gemma3-1B-IT (con tu cuenta, después de
+   aceptar la licencia de Gemma; los pasos están en la guía). No lo pongas en esta
+   carpeta: no va al repo (el `.gitignore` ya lo excluye).
 2. Revisa que tu emulador tenga al menos 1.5 GB libres y, de preferencia, 4 GB de RAM.
 
 ## Cómo empezar
